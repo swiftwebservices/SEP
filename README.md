@@ -2,7 +2,6 @@
 Advanced  High Windows Bulk Email Sender
 This unique and powerful Windows based mailer is fully automatic and can run non-stop 24/7 once you have entered the database credentials and imported or added your SMTP's and Socks Proxy.
 
-You can use your own Socks proxy servers also. You will need to get your own SMTP servers.
 The program can automatically rotate unlimited number of SMTPs and Socks 5 proxy. It also supports spintax for all fields such as "From Name", Recipient name, message,Sender email, etc.
 
 Features:
