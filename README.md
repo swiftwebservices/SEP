@@ -25,4 +25,4 @@ Features:
 
 *Super fast and multithreaded up to 1000 threads
 
-*Lifetime license and free upgrades
+*Yearly license and free upgrades
