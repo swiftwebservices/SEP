@@ -11,7 +11,7 @@ Features:
 
 *SMTP IP connection rate: This feature allows for controlling the number of attempted delivery to recipients within a specified time period per SMTP IP
 
-*Only supports pooling email addresses from a MySQL database. We have a general consumer 500 million regularly verified email database that you can easily plug into the mailer for your email promotion/marketing needs. You will get access to this regularly verified and maintained database as long as your license is valid.
+*Supports both emails contacts in CSV and MySQL DB
 
 *Automatic cold/new SMTP IP warm-up: Program allows you to auto increase the daily sending limits of each SMTP IP by a value specified every X hours without manual intervention
 
