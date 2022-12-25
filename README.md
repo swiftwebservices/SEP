@@ -26,4 +26,4 @@ Features:
 
 *Yearly license and free upgrades
 
-More information: https://swiftsmtp.com/
+More information: http://swiftsmtp.com/
