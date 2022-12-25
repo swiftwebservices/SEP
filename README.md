@@ -25,3 +25,5 @@ Features:
 *Super fast and multithreaded up to 1000 threads
 
 *Yearly license and free upgrades
+
+More information: https://swiftsmtp.com/
